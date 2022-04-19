@@ -1,19 +1,19 @@
-# Project 3: From Homeland to Homeland
-### Overview  
-* Intro  
+# Projeto 3: De Pátria para Pátria
+### Visão geral    
+* Introdução  
 * Figma  
-* Images  
+* Imagens  
   
-**Intro**    
+**Introdução**    
   
-This is a project that showcases the hometowns of some of Practicum's employees. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
+Este é um projeto que mostra as cidades de origem de alguns funcionários do Practicum. Fizemos isso para que todos os elementos sejam exibidos corretamente em tamanhos de tela populares. Recomendamos investir mais tempo na conclusão deste projeto, pois é mais difícil do que os anteriores.  
   
 **Figma**  
   
-* [Link to the project on Figma](https://www.figma.com/file/1zCYcflj6BJx5VqOvXU9nb/Sprint-3-From-Homeland-to-Homeland-desktop-mobile?node-id=0%3A1)  
+* [Link para o projeto no Figma](https://www.figma.com/file/1zCYcflj6BJx5VqOvXU9nb/Sprint-3-From-Homeland-to-Homeland-desktop-mobile?node-id=0%3A1)  
   
-**Images**  
+**Imagens**  
   
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
+A maneira como você fará isso no trabalho é exportando imagens diretamente do Figma — recomendamos fazer isso para praticar mais. Não se esqueça de otimizá-los [aqui](https://tinypng.com/), para que seu projeto carregue mais rápido. 
   
-Good luck and have fun!  
+Boa sorte e divirta-se!   
