@@ -4,6 +4,9 @@
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/places/places.css);
+@import url(../blocks/place/place.css);
+@import url(../blocks/button/button.css);
 
 /* Elements */
 
@@ -22,4 +25,17 @@
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
 @import url(../blocks/photo-grid/__image/photo-grid__image.css);
 
+@import url(../blocks/place/__item/place__item.css);
+@import url(../blocks/place/__title/place__title.css);
+@import url(../blocks/place/__artist/place__artist.css);
+@import url(../blocks/place/__artist-name/place__artist-name.css);
+@import url(../blocks/place/__paragraph/place__paragraph.css);
+@import url(../blocks/place/__figure/place__figure.css);
+@import url(../blocks/place/__image/place__image.css);
+
 /* Modifiers */
+
+@import url(../blocks/place/__item/_align/place__item_align_end.css);
+@import url(../blocks/place/__item/_paragraph/place__item_paragraph.css);
+@import url(../blocks/place/__artist-name/_paragraph/place__artist-name_paragraph.css);
+@import url(../blocks/place/__paragraph/_button/place__paragraph_button.css);

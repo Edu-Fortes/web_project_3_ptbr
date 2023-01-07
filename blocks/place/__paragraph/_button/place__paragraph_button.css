@@ -1,0 +1,9 @@
+.place__paragraph_button {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.2;
+  text-decoration: none;
+  color: #fff;
+  padding: 0.8rem 1.25rem;
+  padding: 0;
+}

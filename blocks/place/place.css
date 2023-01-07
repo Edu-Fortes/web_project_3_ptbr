@@ -1,0 +1,10 @@
+.place {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, auto);
+  gap: 3rem 2.5rem;
+  grid-template-areas:
+    "title website"
+    "figure paragraph"
+    "button paragraph";
+}
