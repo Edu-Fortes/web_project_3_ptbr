@@ -7,6 +7,8 @@
 @import url(../blocks/places/places.css);
 @import url(../blocks/place/place.css);
 @import url(../blocks/button/button.css);
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/overlay/overlay.css);
 
 /* Elements */
 
@@ -33,9 +35,16 @@
 @import url(../blocks/place/__figure/place__figure.css);
 @import url(../blocks/place/__image/place__image.css);
 
+@import url(../blocks/button/__paragraph/button__paragraph.css);
+
+@import url(../blocks/cover/__content/cover_content.css);
+@import url(../blocks/cover/__title/cover__title.css);
+
 /* Modifiers */
 
 @import url(../blocks/place/__item/_align/place__item_align_end.css);
 @import url(../blocks/place/__item/_paragraph/place__item_paragraph.css);
 @import url(../blocks/place/__artist-name/_paragraph/place__artist-name_paragraph.css);
 @import url(../blocks/place/__paragraph/_button/place__paragraph_button.css);
+@import url(../blocks/button/_buy_ticket/button_buy_ticket.css);
+@import url(../blocks/cover/__subtitle/_formating/cover__subtitle_formating.css);
