@@ -1,0 +1,11 @@
+.overlay {
+  width: inherit;
+  height: inherit;
+  transition: background-color 0.4s;
+  display: grid;
+  align-content: center;
+}
+
+.overlay:hover {
+  background-color: rgba(0, 0, 0, 0.3);
+}
