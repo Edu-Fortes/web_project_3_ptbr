@@ -1,16 +1,1 @@
-.photo-grid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 1rem 1rem;
-  max-width: 90%;
-  margin: 0 auto;
-}
 
-.grid__item {
-  margin: 0 auto;
-}
-
-.grid__image {
-  max-width: 100%;
-  min-height: 100%;
-}
