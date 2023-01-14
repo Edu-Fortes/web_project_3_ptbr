@@ -7,7 +7,8 @@
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/photo-grid/photo-grid.css);
-@import url(../blocks/grid/grid.css);
+@import url(../blocks/places/places.css);
+@import url(../blocks/place/place.css);
 
 /* Elements */
 
@@ -20,7 +21,16 @@
 @import url(../blocks/intro/__quote/intro__quote.css);
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__text-container/intro__text-container.css);
-@import url(../blocks/grid/__item/grid__item.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
+@import url(../blocks/photo-grid/__image/photo-grid__image.css);
+@import url(../blocks/place/__item/place__item.css);
+@import url(../blocks/place/__title/place__title.css);
+@import url(../blocks/place/__author/place__author.css);
+@import url(../blocks/place/__artist/place__artist.css);
+@import url(../blocks/place/__artist-name/place__atist-name.css);
+@import url(../blocks/place/__figure/place__figure.css);
+@import url(../blocks/place/__image/place__image.css);
+@import url(../blocks/place/__paragraph/place__paragraph.css);
 
 /* Modifiers */
 
