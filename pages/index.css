@@ -9,6 +9,7 @@
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/places/places.css);
 @import url(../blocks/place/place.css);
+@import url(../blocks/button/button.css);
 
 /* Elements */
 
@@ -28,10 +29,13 @@
 @import url(../blocks/place/__author/place__author.css);
 @import url(../blocks/place/__artist/place__artist.css);
 @import url(../blocks/place/__artist-name/place__atist-name.css);
+@import url(../blocks/place/__figure-area/place__figure-area.css);
 @import url(../blocks/place/__figure/place__figure.css);
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
+@import url(../blocks/place/__artist-paragraph/place__artist-paragraph.css);
 
 /* Modifiers */
 
 @import url(../blocks/intro/__quote/_align/intro__quote_align_right.css);
+@import url(../blocks/button/_place/button_place.css);

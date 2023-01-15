@@ -1,3 +1,4 @@
 .place__author {
   align-self: end;
+  grid-area: artist;
 }
