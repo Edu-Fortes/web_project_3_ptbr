@@ -2,14 +2,13 @@
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 1rem 1rem;
-  max-width: 90%;
-  margin: 0 auto 5.75rem;
-  padding: 0;
+  margin: 0 3rem 5.75rem;
   list-style: none;
 }
 
 @media screen and (max-width: 850px) {
   .photo-grid {
     grid-template-columns: 1fr 1fr;
-}
+    margin: 0 1.5rem 5.5rem;
+  }
 }
