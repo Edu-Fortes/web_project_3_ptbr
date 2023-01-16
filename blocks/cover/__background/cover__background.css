@@ -1,0 +1,4 @@
+.cover__background {
+  grid-area: cover;
+  margin: 0;
+}

@@ -1,40 +1,8 @@
-.cover {
-  display: grid;
-  grid-template-areas: "cover";
+.cover__overlay {
+  transition: 0.3s ease-in-out;
 }
 
-.cover__content {
-  grid-area: cover;
-  align-self: center;
-  margin: 0 auto;
-}
-
-.cover__background {
-  grid-area: cover;
-  margin: 0;
-}
-
-.cover__image {
-  max-width: 100%;
-  min-height: auto;
-}
-
-.cover__title {
-  font-size: 72px;
-  font-weight: 900;
-  line-height: 1.06;
-  text-align: center;
-  margin: 0;
-}
-
-.cover__subtitle {
-  font-size: 18px;
-  font-weight: 400;
-  line-height: 1.22;
-  text-align: center;
-  margin-block: 2rem;
-}
-
-.cover__subtitle-paragraph {
-  margin: 0;
+.cover__overlay:hover {
+  background-color: #2a2c2f;
+  opacity: 0.2;
 }
