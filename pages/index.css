@@ -11,6 +11,7 @@
 @import url(../blocks/place/place.css);
 @import url(../blocks/button/button.css);
 @import url(../blocks/cover/cover.css);
+@import url(../blocks/footer/footer.css);
 
 /* Elements */
 
@@ -41,6 +42,7 @@
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 @import url(../blocks/cover/__subtitle-paragraph/cover__subtitle-paragraph.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
 
 /* Modifiers */
 
