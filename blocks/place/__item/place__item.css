@@ -1,0 +1,8 @@
+.place__item {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem 2.5rem;
+  grid-template-areas:
+    "title artist"
+    "image-button article";
+}

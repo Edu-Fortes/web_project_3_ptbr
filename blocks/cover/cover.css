@@ -1,0 +1,4 @@
+.cover {
+  display: grid;
+  grid-template-areas: "cover";
+}
