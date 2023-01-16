@@ -2,3 +2,8 @@
   margin-top: 2.1rem;
   margin-bottom: 5.75rem;
 }
+
+@media screen and (max-width: 1000px) {
+  .intro {
+    margin-bottom;: 5.5rem
+}

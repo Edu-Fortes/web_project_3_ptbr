@@ -2,3 +2,8 @@
   margin: 0 auto;
   padding: 0 10% 5.75rem;
 }
+
+@media screen and (max-width: 1000px) {
+  .intro {
+    padding: 0 3.5% 5.75rem
+}
