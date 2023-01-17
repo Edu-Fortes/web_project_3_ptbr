@@ -4,6 +4,12 @@
 }
 
 @media screen and (max-width: 1000px) {
-  .intro {
-    margin-bottom;: 5.5rem
+  .header {
+    margin-bottom: 5.5rem;
+}
+
+@media screen and (max-width: 480px) {
+  .header {
+    margin-block: 1.25rem 2.75rem;
+  }
 }

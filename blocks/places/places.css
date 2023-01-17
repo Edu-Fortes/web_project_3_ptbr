@@ -1,4 +1,9 @@
 .places {
-  max-width: 80%;
-  margin: 0 auto 5.75rem;
+  margin: 0 9.25rem 5.75rem;
+}
+
+@media screen and (max-width: 1000px) {
+  .places {
+    margin: 0 1.5rem 5.5rem;
+  }
 }
