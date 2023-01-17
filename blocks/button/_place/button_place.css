@@ -8,3 +8,9 @@
     padding: 0.8rem 0.3rem;
   }
 }
+
+@media screen and (max-width: 480px) {
+  .button_place {
+    display: none;
+  }
+}
