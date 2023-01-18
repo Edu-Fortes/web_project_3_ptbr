@@ -31,12 +31,11 @@
 @import url(../blocks/place/__title/place__title.css);
 @import url(../blocks/place/__author/place__author.css);
 @import url(../blocks/place/__artist/place__artist.css);
-@import url(../blocks/place/__artist-name/place__atist-name.css);
+@import url(../blocks/place/__artist-name/place__artist-name.css);
 @import url(../blocks/place/__figure-area/place__figure-area.css);
 @import url(../blocks/place/__figure/place__figure.css);
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
-@import url(../blocks/place/__artist-paragraph/place__artist-paragraph.css);
 @import url(../blocks/cover/__content/cover__content.css);
 @import url(../blocks/cover/__background/cover__background.css);
 @import url(../blocks/cover/__image/cover__image.css);
