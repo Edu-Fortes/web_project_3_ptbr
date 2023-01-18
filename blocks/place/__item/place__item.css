@@ -6,3 +6,15 @@
     "title artist"
     "image-button article";
 }
+
+@media screen and (max-width: 600px) {
+  .place__item {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "title"
+      "artist"
+      "image-button"
+      "article";
+    row-gap: 1.8rem;
+  }
+}

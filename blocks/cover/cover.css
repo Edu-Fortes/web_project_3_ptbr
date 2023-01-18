@@ -1,4 +1,10 @@
 .cover {
   display: grid;
   grid-template-areas: "cover";
+  transition: 0.4s ease-out;
+}
+
+.cover:hover {
+  background-color: rgba(42, 44, 47, 0.8);
+  transition: 0.3s ease-in;
 }

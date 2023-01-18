@@ -2,3 +2,14 @@
   margin-top: 2.1rem;
   margin-bottom: 5.75rem;
 }
+
+@media screen and (max-width: 1000px) {
+  .header {
+    margin-bottom: 5.5rem;
+}
+
+@media screen and (max-width: 550px) {
+  .header {
+    margin-block: 1.25rem 2.75rem;
+  }
+}

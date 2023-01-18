@@ -2,3 +2,9 @@
   text-align: center;
   margin: 0;
 }
+
+@media screen and (max-width: 550px) {
+  .header__logo {
+    padding: 20px 60px 0;
+  }
+}
