@@ -1,3 +1,9 @@
 .footer {
   margin: 5.75rem 0 1.5rem;
 }
+
+@media screen and (max-width: 500px) {
+  .footer {
+    margin-top: 4rem;
+  }
+}

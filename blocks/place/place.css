@@ -5,3 +5,9 @@
   margin: 0 auto;
   padding: 0;
 }
+
+@media screen and (max-width: 550px) {
+  .place {
+    row-gap: 3.1rem;
+  }
+}

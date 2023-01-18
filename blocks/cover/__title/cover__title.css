@@ -4,3 +4,11 @@
   line-height: 1.06;
   margin: 0;
 }
+
+@media screen and (max-width: 500px) {
+  .cover__title {
+    font-size: 32px;
+    line-height: 1.09;
+    text-align: center;
+  }
+}

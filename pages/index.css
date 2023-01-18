@@ -50,3 +50,4 @@
 @import url(../blocks/intro/__quote/_align/intro__quote_align_right.css);
 @import url(../blocks/button/_place/button_place.css);
 @import url(../blocks/button/_cover/button_cover.css);
+@import url(../blocks/button/_place/button_place_mobile.css);
